@@ -22,7 +22,7 @@ console.log('exercise 2 result: ', isAdult(21))
 
 //exercise 3 
 function isCharAVowel(char) {
-    if (char === 'a', 'e', 'i', 'o', 'u') {
+    if (char === 'a' || char === 'e' || char === 'i' || char === 'o' || char === 'u') {
         return true
     }
 
